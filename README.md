@@ -1,1 +1,1 @@
-# SevenCC
+# SevenOS
